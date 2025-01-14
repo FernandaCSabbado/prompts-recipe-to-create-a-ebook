@@ -29,63 +29,58 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Microsoft Copilot](https://copilot.microsoft.com/) 
+- [Leonardo.AI](https://leonardo.ai/)
+- [Google Apresentação](https://docs.google.com/)
 
 ## 🧠 Prompts
 
 
-ChatGPT：
+Microsoft Copilot：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Dê cinco sugestões para título deste ebook, com subtítulo
+{REGRAS}
+- os títulos devem ser curtos e objetivos - devem ser relacionados ao nome da
+empresa, que é a Caixa - devem mencionar que são dicas básicas
+- pode ser menos formal, em uma linguagem acessível a qualquer empregado dentro
+da hierarquia da empresa                                                       |
+| conteúdo | Considerando a importância da comunicação eletrônica interna de um empresa de
+nível nacional, faça um texto para ebook corporativo a ser distribuído para os
+funcionários desta empresa, com dicas sobre formatação da página, clareza de
+linguagem, uso de linguagem empresarial, regras de etiqueta de comunicação.
+{REGRAS}
+- a fonte do texto a ser sugerida é Arial ou Times New Roman
+- o tamanho da fonte sugerida é tamanho 11
+
+- o espaçamento e margens a serem sugeridas devem estar dentro das normas da
+ABNT
+- deve ser mencionado que a empresa possui normas de hierarquia da comunicação,
+conforme Manual Normativo OR003|
 
 
-Midjourney：
+Leonardo.ai：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie uma imagem para ser capa de um ebook com regras de comunicação para uma
+empresa. A imagem deve conter uma pessoa, vestida para trabalhar em escritório,
+utilizando um computador para escrever. A imagem deve refletir um ambiente de
+trabalho clean. As cores predominantes devem ser laranja e azul. |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via Microsoft Copilot
+- Imagens geradas via Leonardo.AI
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
 
 ---
 
