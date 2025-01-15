@@ -20,8 +20,6 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
@@ -31,21 +29,20 @@ seguem abaixo.
 
 - [Microsoft Copilot](https://copilot.microsoft.com/) 
 - [Leonardo.AI](https://leonardo.ai/)
-- [Google Apresentação](https://docs.google.com/)
+- [Canva](https://www.canva.com/pt_br/)
 
 ## 🧠 Prompts
 
 
 Microsoft Copilot：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Dê cinco sugestões para título deste ebook, com subtítulo
+Promp para Título Dê cinco sugestões para título deste ebook, com subtítulo
 {REGRAS}
-- os títulos devem ser curtos e objetivos - devem ser relacionados ao nome da
-empresa, que é a Caixa - devem mencionar que são dicas básicas
+- os títulos devem ser curtos e objetivos
+- devem ser relacionados ao nome da empresa, que é a Caixa 
+- devem mencionar que são dicas básicas
 - pode ser menos formal, em uma linguagem acessível a qualquer empregado dentro
-da hierarquia da empresa                                                       |
+da hierarquia da empresa                                                       
 | conteúdo | Considerando a importância da comunicação eletrônica interna de um empresa de
 nível nacional, faça um texto para ebook corporativo a ser distribuído para os
 funcionários desta empresa, com dicas sobre formatação da página, clareza de
