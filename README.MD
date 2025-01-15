@@ -20,6 +20,7 @@ Microsoft Copilot：
 
 Promp para Título:
 Dê cinco sugestões para título deste ebook, com subtítulo
+
 {REGRAS}
 - os títulos devem ser curtos e objetivos
 - devem ser relacionados ao nome da empresa, que é a Caixa 
@@ -27,7 +28,8 @@ Dê cinco sugestões para título deste ebook, com subtítulo
 - pode ser menos formal, em uma linguagem acessível a qualquer empregado dentro
 da hierarquia da empresa  
 
-Prompt para Conteúdo: Considerando a importância da comunicação eletrônica interna de um empresa de
+Prompt para Conteúdo:
+Considerando a importância da comunicação eletrônica interna de um empresa de
 nível nacional, faça um texto para ebook corporativo a ser distribuído para os funcionários desta empresa, com dicas sobre formatação da página, clareza de linguagem, uso de linguagem empresarial, regras de etiqueta de comunicação.
 
 {REGRAS}
@@ -58,8 +60,3 @@ trabalho clean. As cores predominantes devem ser laranja e azul.
 - ebook gerado durante as aulas em `output`
 
 
-
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
